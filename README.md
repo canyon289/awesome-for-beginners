@@ -205,7 +205,7 @@ A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop/labels/good%20first%20issue) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
 
 ## Python
-
+- [ArviZ](https://github.com/arviz-devs/arviz/issues?q=is%3Aissue+is%3Aopen+label%3ABeginner) _(Beginner)_ <br> Exploratory Anaylsis of Bayesian Models
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
